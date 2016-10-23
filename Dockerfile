@@ -1,5 +1,5 @@
-FROM jboss/base:latest
-MAINTAINER Marek Goldmann <mgoldman@redhat.com>
+FROM project31/aarch64-jboss-base:latest
+MAINTAINER Kurt T Stam <kstam@redhat.com>
 
 # User root user to install software
 USER root
