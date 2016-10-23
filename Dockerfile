@@ -1,4 +1,4 @@
-FROM project31/aarch64-boss-base:latest
+FROM project31/aarch64-jboss-base:latest
 MAINTAINER Kurt T Stam <kstam@redhat.com>
 
 # User root user to install software
